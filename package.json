@@ -1,0 +1,22 @@
+{
+  "name": "bookmarklet_template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "bookmarkletify --input index.js > index.bookmarklet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watarukura/bookmarklet_template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watarukura/bookmarklet_template/issues"
+  },
+  "homepage": "https://github.com/watarukura/bookmarklet_template#readme",
+  "dependencies": {
+    "@neos21/bookmarkletify": "^0.0.3"
+  }
+}
