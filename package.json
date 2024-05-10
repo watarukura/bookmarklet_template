@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/watarukura/bookmarklet_template#readme",
   "dependencies": {
-    "@neos21/bookmarkletify": "^0.0.3"
+    "@neos21/bookmarkletify": "^0.0.5"
   }
 }
